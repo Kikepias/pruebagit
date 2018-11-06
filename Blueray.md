@@ -1,5 +1,5 @@
 # **Blu-ray**
-<div><img src="disco.png" width="400"><br></div>
+<div style="text-align:center"><img src="disco.png" width="400"><br></div>
 
 El blu-ray es un formato de disco óptico.
 Fue desarrollado por la *Blu-ray Disc Association* (BDA), es empleado para videos en **HD, 3D, Ultra HD** y tiene una mayor capacidad que los **DVD**
@@ -9,7 +9,7 @@ El disco Blu-ray hace uso de un rayo láser de color azul con una longitud de on
            
     *Dato curioso:  Blu-ray obtiene su nombre del color azul del rayo láser (blue ray significa ‘rayo azul’). La letra e de la palabra original blue fue eliminada debido a que, en algunos países, no se puede registrar para un nombre comercial una palabra común.
     
-<div><img src="bluray.png" width="550"><br></div>
+<div style="text-align:center"><img src="bluray.png" width="550"><br></div>
 
 * ***Historia***:    
 BDA es liderado por **SONY** y por **PHILIPS**  
